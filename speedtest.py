@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-## Speed test python script from pimylifeup.com
+## Speed test python script from pimylifeup.com modifed to work and output to csv.
 
 import os
 import re
